@@ -1,4 +1,1 @@
-APPROACHES
-
-- DeepAR
-- N-BEATS
+This program was created for the Linc Hackathon 2024. It's a neural network model called N-Beats, inspiration is taken from "Element Ai". The N-Beats did great in Makridakis M-competion, therefore I wrote this program to test the model for predicting stock price data.
